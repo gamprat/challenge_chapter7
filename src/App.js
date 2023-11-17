@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <BrowserRouter>
-          <Link to="https://ump.ac.id/">
+          <Link to="https://ump.ac.id/" target="_blank">
             <img src={logo} className="App-logo" alt="logo" />
           </Link>
         </BrowserRouter>
